@@ -1,0 +1,7 @@
+{
+    "name": "Repo Level Loader",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Alexekokota/RepoLevelLoader.git",
+    "description": "Very jank loader that reads custom level mods generated using https://github.com/Alexekokota/REPO-level-exporter",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

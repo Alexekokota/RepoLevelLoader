@@ -1,0 +1,8 @@
+C:\Users\Alexe\source\repos\TestMods\TestMod2\bin\Debug\netstandard2.1\RepoLevelLoader.deps.json
+C:\Users\Alexe\source\repos\TestMods\TestMod2\bin\Debug\netstandard2.1\RepoLevelLoader.dll
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.AssemblyInfoInputs.cache
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.AssemblyInfo.cs
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\TestMods\TestMod2\obj\Debug\netstandard2.1\RepoLevelLoader.dll
